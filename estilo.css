@@ -1,0 +1,77 @@
+body{
+    font-family: tahoma, arial, sans-serif;
+    color:rgb(41, 40, 40);
+    background-color: rgb(243, 238, 232);
+    text-align: center;
+    font-size: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+    #topo{
+        background-image: url(topo.jpg);
+        color:rgb(42,70,91);
+        height: 500px;
+        background-size:cover;
+        background-position:center;   
+        text-align: left;
+        
+    }
+    #topo li b{
+        margin: 5px 0 0 50px
+    }
+    #topo ul li a{
+        display: inline-block;
+        text-align: right;
+        line-height: 2px;
+        letter-spacing: 2px;  
+    }
+    
+    #topo ul li a{
+        text-align: right;
+    }
+    #meio{
+        line-height: 30px;
+        font-size: 25px;
+
+
+
+    }
+    #modelos ul li{
+        display: inline-block;
+        padding: 50px;
+
+    }
+    #just{
+        background-image: url(bg_detalhe.png);
+        font-size: 40px;
+        color: rgb(243, 238, 232);
+        padding: 80px;
+        height:400px;
+        background-size: center;
+        background-position: auto;
+        text-align:left;
+        
+        
+    }
+    #just p{
+        font-size:20px; 
+        text-align:left;
+
+
+    }
+    #contato{
+        color:rgb(29, 51, 68);
+        padding: 30px;
+    }
+    footer{
+        background-color:rgb(42,70,91);
+        height:50px;
+        padding: 1px;
+    }
+    
+       
+    
+
+
+
+
